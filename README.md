@@ -1,7 +1,9 @@
 # BlockMod
 ##### Brought to you by BlockTech, Inc.
 
-The latest technology from BlockTech, Inc. is now on Modrinth! BlockMod focuses the user experience, providing quality of life tweaks and performance improvements. 
+The latest technology from BlockTech, Inc. is now on Modrinth! BlockMod focuses the creative user experience, providing quality of life tweaks and performance improvements.
+
+There are *two* versions of BlockMod: BlockMod Client and BlockMod Full. BlockMod Client is a client-sided modpack, while BlockMod Full has some extra features.
 
 <details><summary>Modlist</summary>
 <p>
