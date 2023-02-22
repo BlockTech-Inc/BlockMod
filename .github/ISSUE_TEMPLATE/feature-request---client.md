@@ -1,8 +1,8 @@
 ---
-name: Feature request
+name: Feature request - Client
 about: Suggest an idea for this project
 title: "[Feature Request]"
-labels: feature request
+labels: client, feature request
 assignees: GhostIsBeHere
 
 ---

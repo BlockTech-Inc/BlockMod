@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Bug report - Full
 about: Create a report to help us improve
-title: "[Bug Report]"
-labels: bug
+title: "[Bug report] [Full]"
+labels: bug, full
 assignees: GhostIsBeHere
 
 ---
